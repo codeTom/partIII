@@ -1,0 +1,26 @@
+ML:
+    preprocessing.py
+        ->image segmentation, filtering, smoothing etc.
+    keras_autoencoder2.py
+        ->autoencoder code, data loading
+    keras_classifier.py
+        ->classifier, crossvalidation, testing
+    prep_data.py
+        ->extracts and collates data from various runs
+    extractScalars.py
+        ->extracts scalars from tensorboard logs for report
+
+xml_temika:
+    library for creating the XMLs required by the Nikon microscope control system
+
+OFM_beads:
+    scripts for procesing beads (centres_plots), generating i(r) images (irplots) and merging the images (ofmmerge)
+
+stats.py:
+    converts the single cell classification perforamnce to overall system performance
+
+rgb_merger.c:
+    merges .movie files from Nikon microscope into rgb images
+
+logs:
+    log files from various processes

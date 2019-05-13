@@ -1,0 +1,2578 @@
+<temika>
+<eclipsetie>
+<zdrive_move_relative>-5.000 1</zdrive_move_relative>
+</eclipsetie>
+<multiled device="microscope">
+<trigger>EXTERNAL0</trigger>
+<enable channel="1">OFF</enable>
+<set channel="0">0.100</set>
+<number channel="0">2</number>
+<enable channel="0">ON</enable>
+</multiled>
+<save>
+<basename>/home/fa344/data/grid1/img_x0.000_y0.000_z-5.000_R</basename>
+<append>NOTHING</append>
+</save>
+<camera name="IIDC Point Grey Research Grasshopper3 GS3-U3-23S6M">
+<trigger>SOFTWARE</trigger>
+<record>ON</record>
+<send_trigger></send_trigger>
+<sleep>0:0:0.050</sleep>
+<record>OFF</record>
+</camera>
+<multiled device="microscope">
+<trigger>EXTERNAL0</trigger>
+<enable channel="1">OFF</enable>
+<set channel="0">0.100</set>
+<number channel="0">1</number>
+<enable channel="0">ON</enable>
+</multiled>
+<save>
+<basename>/home/fa344/data/grid1/img_x0.000_y0.000_z-5.000_G</basename>
+<append>NOTHING</append>
+</save>
+<camera name="IIDC Point Grey Research Grasshopper3 GS3-U3-23S6M">
+<trigger>SOFTWARE</trigger>
+<record>ON</record>
+<send_trigger></send_trigger>
+<sleep>0:0:0.050</sleep>
+<record>OFF</record>
+</camera>
+<multiled device="microscope">
+<trigger>EXTERNAL0</trigger>
+<enable channel="1">OFF</enable>
+<set channel="0">0.100</set>
+<number channel="0">0</number>
+<enable channel="0">ON</enable>
+</multiled>
+<save>
+<basename>/home/fa344/data/grid1/img_x0.000_y0.000_z-5.000_B</basename>
+<append>NOTHING</append>
+</save>
+<camera name="IIDC Point Grey Research Grasshopper3 GS3-U3-23S6M">
+<trigger>SOFTWARE</trigger>
+<record>ON</record>
+<send_trigger></send_trigger>
+<sleep>0:0:0.050</sleep>
+<record>OFF</record>
+</camera>
+<multiled device="microscope">
+<trigger>EXTERNAL0</trigger>
+<enable channel="1">OFF</enable>
+<set channel="0">0.000</set>
+<number channel="0">0</number>
+<enable channel="0">ON</enable>
+</multiled>
+<eclipsetie>
+<zdrive_move_relative>0.256 1</zdrive_move_relative>
+</eclipsetie>
+<multiled device="microscope">
+<trigger>EXTERNAL0</trigger>
+<enable channel="1">OFF</enable>
+<set channel="0">0.100</set>
+<number channel="0">2</number>
+<enable channel="0">ON</enable>
+</multiled>
+<save>
+<basename>/home/fa344/data/grid1/img_x0.000_y0.000_z-4.744_R</basename>
+<append>NOTHING</append>
+</save>
+<camera name="IIDC Point Grey Research Grasshopper3 GS3-U3-23S6M">
+<trigger>SOFTWARE</trigger>
+<record>ON</record>
+<send_trigger></send_trigger>
+<sleep>0:0:0.050</sleep>
+<record>OFF</record>
+</camera>
+<multiled device="microscope">
+<trigger>EXTERNAL0</trigger>
+<enable channel="1">OFF</enable>
+<set channel="0">0.100</set>
+<number channel="0">1</number>
+<enable channel="0">ON</enable>
+</multiled>
+<save>
+<basename>/home/fa344/data/grid1/img_x0.000_y0.000_z-4.744_G</basename>
+<append>NOTHING</append>
+</save>
+<camera name="IIDC Point Grey Research Grasshopper3 GS3-U3-23S6M">
+<trigger>SOFTWARE</trigger>
+<record>ON</record>
+<send_trigger></send_trigger>
+<sleep>0:0:0.050</sleep>
+<record>OFF</record>
+</camera>
+<multiled device="microscope">
+<trigger>EXTERNAL0</trigger>
+<enable channel="1">OFF</enable>
+<set channel="0">0.100</set>
+<number channel="0">0</number>
+<enable channel="0">ON</enable>
+</multiled>
+<save>
+<basename>/home/fa344/data/grid1/img_x0.000_y0.000_z-4.744_B</basename>
+<append>NOTHING</append>
+</save>
+<camera name="IIDC Point Grey Research Grasshopper3 GS3-U3-23S6M">
+<trigger>SOFTWARE</trigger>
+<record>ON</record>
+<send_trigger></send_trigger>
+<sleep>0:0:0.050</sleep>
+<record>OFF</record>
+</camera>
+<multiled device="microscope">
+<trigger>EXTERNAL0</trigger>
+<enable channel="1">OFF</enable>
+<set channel="0">0.000</set>
+<number channel="0">0</number>
+<enable channel="0">ON</enable>
+</multiled>
+<eclipsetie>
+<zdrive_move_relative>0.256 1</zdrive_move_relative>
+</eclipsetie>
+<multiled device="microscope">
+<trigger>EXTERNAL0</trigger>
+<enable channel="1">OFF</enable>
+<set channel="0">0.100</set>
+<number channel="0">2</number>
+<enable channel="0">ON</enable>
+</multiled>
+<save>
+<basename>/home/fa344/data/grid1/img_x0.000_y0.000_z-4.487_R</basename>
+<append>NOTHING</append>
+</save>
+<camera name="IIDC Point Grey Research Grasshopper3 GS3-U3-23S6M">
+<trigger>SOFTWARE</trigger>
+<record>ON</record>
+<send_trigger></send_trigger>
+<sleep>0:0:0.050</sleep>
+<record>OFF</record>
+</camera>
+<multiled device="microscope">
+<trigger>EXTERNAL0</trigger>
+<enable channel="1">OFF</enable>
+<set channel="0">0.100</set>
+<number channel="0">1</number>
+<enable channel="0">ON</enable>
+</multiled>
+<save>
+<basename>/home/fa344/data/grid1/img_x0.000_y0.000_z-4.487_G</basename>
+<append>NOTHING</append>
+</save>
+<camera name="IIDC Point Grey Research Grasshopper3 GS3-U3-23S6M">
+<trigger>SOFTWARE</trigger>
+<record>ON</record>
+<send_trigger></send_trigger>
+<sleep>0:0:0.050</sleep>
+<record>OFF</record>
+</camera>
+<multiled device="microscope">
+<trigger>EXTERNAL0</trigger>
+<enable channel="1">OFF</enable>
+<set channel="0">0.100</set>
+<number channel="0">0</number>
+<enable channel="0">ON</enable>
+</multiled>
+<save>
+<basename>/home/fa344/data/grid1/img_x0.000_y0.000_z-4.487_B</basename>
+<append>NOTHING</append>
+</save>
+<camera name="IIDC Point Grey Research Grasshopper3 GS3-U3-23S6M">
+<trigger>SOFTWARE</trigger>
+<record>ON</record>
+<send_trigger></send_trigger>
+<sleep>0:0:0.050</sleep>
+<record>OFF</record>
+</camera>
+<multiled device="microscope">
+<trigger>EXTERNAL0</trigger>
+<enable channel="1">OFF</enable>
+<set channel="0">0.000</set>
+<number channel="0">0</number>
+<enable channel="0">ON</enable>
+</multiled>
+<eclipsetie>
+<zdrive_move_relative>0.256 1</zdrive_move_relative>
+</eclipsetie>
+<multiled device="microscope">
+<trigger>EXTERNAL0</trigger>
+<enable channel="1">OFF</enable>
+<set channel="0">0.100</set>
+<number channel="0">2</number>
+<enable channel="0">ON</enable>
+</multiled>
+<save>
+<basename>/home/fa344/data/grid1/img_x0.000_y0.000_z-4.231_R</basename>
+<append>NOTHING</append>
+</save>
+<camera name="IIDC Point Grey Research Grasshopper3 GS3-U3-23S6M">
+<trigger>SOFTWARE</trigger>
+<record>ON</record>
+<send_trigger></send_trigger>
+<sleep>0:0:0.050</sleep>
+<record>OFF</record>
+</camera>
+<multiled device="microscope">
+<trigger>EXTERNAL0</trigger>
+<enable channel="1">OFF</enable>
+<set channel="0">0.100</set>
+<number channel="0">1</number>
+<enable channel="0">ON</enable>
+</multiled>
+<save>
+<basename>/home/fa344/data/grid1/img_x0.000_y0.000_z-4.231_G</basename>
+<append>NOTHING</append>
+</save>
+<camera name="IIDC Point Grey Research Grasshopper3 GS3-U3-23S6M">
+<trigger>SOFTWARE</trigger>
+<record>ON</record>
+<send_trigger></send_trigger>
+<sleep>0:0:0.050</sleep>
+<record>OFF</record>
+</camera>
+<multiled device="microscope">
+<trigger>EXTERNAL0</trigger>
+<enable channel="1">OFF</enable>
+<set channel="0">0.100</set>
+<number channel="0">0</number>
+<enable channel="0">ON</enable>
+</multiled>
+<save>
+<basename>/home/fa344/data/grid1/img_x0.000_y0.000_z-4.231_B</basename>
+<append>NOTHING</append>
+</save>
+<camera name="IIDC Point Grey Research Grasshopper3 GS3-U3-23S6M">
+<trigger>SOFTWARE</trigger>
+<record>ON</record>
+<send_trigger></send_trigger>
+<sleep>0:0:0.050</sleep>
+<record>OFF</record>
+</camera>
+<multiled device="microscope">
+<trigger>EXTERNAL0</trigger>
+<enable channel="1">OFF</enable>
+<set channel="0">0.000</set>
+<number channel="0">0</number>
+<enable channel="0">ON</enable>
+</multiled>
+<eclipsetie>
+<zdrive_move_relative>0.256 1</zdrive_move_relative>
+</eclipsetie>
+<multiled device="microscope">
+<trigger>EXTERNAL0</trigger>
+<enable channel="1">OFF</enable>
+<set channel="0">0.100</set>
+<number channel="0">2</number>
+<enable channel="0">ON</enable>
+</multiled>
+<save>
+<basename>/home/fa344/data/grid1/img_x0.000_y0.000_z-3.974_R</basename>
+<append>NOTHING</append>
+</save>
+<camera name="IIDC Point Grey Research Grasshopper3 GS3-U3-23S6M">
+<trigger>SOFTWARE</trigger>
+<record>ON</record>
+<send_trigger></send_trigger>
+<sleep>0:0:0.050</sleep>
+<record>OFF</record>
+</camera>
+<multiled device="microscope">
+<trigger>EXTERNAL0</trigger>
+<enable channel="1">OFF</enable>
+<set channel="0">0.100</set>
+<number channel="0">1</number>
+<enable channel="0">ON</enable>
+</multiled>
+<save>
+<basename>/home/fa344/data/grid1/img_x0.000_y0.000_z-3.974_G</basename>
+<append>NOTHING</append>
+</save>
+<camera name="IIDC Point Grey Research Grasshopper3 GS3-U3-23S6M">
+<trigger>SOFTWARE</trigger>
+<record>ON</record>
+<send_trigger></send_trigger>
+<sleep>0:0:0.050</sleep>
+<record>OFF</record>
+</camera>
+<multiled device="microscope">
+<trigger>EXTERNAL0</trigger>
+<enable channel="1">OFF</enable>
+<set channel="0">0.100</set>
+<number channel="0">0</number>
+<enable channel="0">ON</enable>
+</multiled>
+<save>
+<basename>/home/fa344/data/grid1/img_x0.000_y0.000_z-3.974_B</basename>
+<append>NOTHING</append>
+</save>
+<camera name="IIDC Point Grey Research Grasshopper3 GS3-U3-23S6M">
+<trigger>SOFTWARE</trigger>
+<record>ON</record>
+<send_trigger></send_trigger>
+<sleep>0:0:0.050</sleep>
+<record>OFF</record>
+</camera>
+<multiled device="microscope">
+<trigger>EXTERNAL0</trigger>
+<enable channel="1">OFF</enable>
+<set channel="0">0.000</set>
+<number channel="0">0</number>
+<enable channel="0">ON</enable>
+</multiled>
+<eclipsetie>
+<zdrive_move_relative>0.256 1</zdrive_move_relative>
+</eclipsetie>
+<multiled device="microscope">
+<trigger>EXTERNAL0</trigger>
+<enable channel="1">OFF</enable>
+<set channel="0">0.100</set>
+<number channel="0">2</number>
+<enable channel="0">ON</enable>
+</multiled>
+<save>
+<basename>/home/fa344/data/grid1/img_x0.000_y0.000_z-3.718_R</basename>
+<append>NOTHING</append>
+</save>
+<camera name="IIDC Point Grey Research Grasshopper3 GS3-U3-23S6M">
+<trigger>SOFTWARE</trigger>
+<record>ON</record>
+<send_trigger></send_trigger>
+<sleep>0:0:0.050</sleep>
+<record>OFF</record>
+</camera>
+<multiled device="microscope">
+<trigger>EXTERNAL0</trigger>
+<enable channel="1">OFF</enable>
+<set channel="0">0.100</set>
+<number channel="0">1</number>
+<enable channel="0">ON</enable>
+</multiled>
+<save>
+<basename>/home/fa344/data/grid1/img_x0.000_y0.000_z-3.718_G</basename>
+<append>NOTHING</append>
+</save>
+<camera name="IIDC Point Grey Research Grasshopper3 GS3-U3-23S6M">
+<trigger>SOFTWARE</trigger>
+<record>ON</record>
+<send_trigger></send_trigger>
+<sleep>0:0:0.050</sleep>
+<record>OFF</record>
+</camera>
+<multiled device="microscope">
+<trigger>EXTERNAL0</trigger>
+<enable channel="1">OFF</enable>
+<set channel="0">0.100</set>
+<number channel="0">0</number>
+<enable channel="0">ON</enable>
+</multiled>
+<save>
+<basename>/home/fa344/data/grid1/img_x0.000_y0.000_z-3.718_B</basename>
+<append>NOTHING</append>
+</save>
+<camera name="IIDC Point Grey Research Grasshopper3 GS3-U3-23S6M">
+<trigger>SOFTWARE</trigger>
+<record>ON</record>
+<send_trigger></send_trigger>
+<sleep>0:0:0.050</sleep>
+<record>OFF</record>
+</camera>
+<multiled device="microscope">
+<trigger>EXTERNAL0</trigger>
+<enable channel="1">OFF</enable>
+<set channel="0">0.000</set>
+<number channel="0">0</number>
+<enable channel="0">ON</enable>
+</multiled>
+<eclipsetie>
+<zdrive_move_relative>0.256 1</zdrive_move_relative>
+</eclipsetie>
+<multiled device="microscope">
+<trigger>EXTERNAL0</trigger>
+<enable channel="1">OFF</enable>
+<set channel="0">0.100</set>
+<number channel="0">2</number>
+<enable channel="0">ON</enable>
+</multiled>
+<save>
+<basename>/home/fa344/data/grid1/img_x0.000_y0.000_z-3.462_R</basename>
+<append>NOTHING</append>
+</save>
+<camera name="IIDC Point Grey Research Grasshopper3 GS3-U3-23S6M">
+<trigger>SOFTWARE</trigger>
+<record>ON</record>
+<send_trigger></send_trigger>
+<sleep>0:0:0.050</sleep>
+<record>OFF</record>
+</camera>
+<multiled device="microscope">
+<trigger>EXTERNAL0</trigger>
+<enable channel="1">OFF</enable>
+<set channel="0">0.100</set>
+<number channel="0">1</number>
+<enable channel="0">ON</enable>
+</multiled>
+<save>
+<basename>/home/fa344/data/grid1/img_x0.000_y0.000_z-3.462_G</basename>
+<append>NOTHING</append>
+</save>
+<camera name="IIDC Point Grey Research Grasshopper3 GS3-U3-23S6M">
+<trigger>SOFTWARE</trigger>
+<record>ON</record>
+<send_trigger></send_trigger>
+<sleep>0:0:0.050</sleep>
+<record>OFF</record>
+</camera>
+<multiled device="microscope">
+<trigger>EXTERNAL0</trigger>
+<enable channel="1">OFF</enable>
+<set channel="0">0.100</set>
+<number channel="0">0</number>
+<enable channel="0">ON</enable>
+</multiled>
+<save>
+<basename>/home/fa344/data/grid1/img_x0.000_y0.000_z-3.462_B</basename>
+<append>NOTHING</append>
+</save>
+<camera name="IIDC Point Grey Research Grasshopper3 GS3-U3-23S6M">
+<trigger>SOFTWARE</trigger>
+<record>ON</record>
+<send_trigger></send_trigger>
+<sleep>0:0:0.050</sleep>
+<record>OFF</record>
+</camera>
+<multiled device="microscope">
+<trigger>EXTERNAL0</trigger>
+<enable channel="1">OFF</enable>
+<set channel="0">0.000</set>
+<number channel="0">0</number>
+<enable channel="0">ON</enable>
+</multiled>
+<eclipsetie>
+<zdrive_move_relative>0.256 1</zdrive_move_relative>
+</eclipsetie>
+<multiled device="microscope">
+<trigger>EXTERNAL0</trigger>
+<enable channel="1">OFF</enable>
+<set channel="0">0.100</set>
+<number channel="0">2</number>
+<enable channel="0">ON</enable>
+</multiled>
+<save>
+<basename>/home/fa344/data/grid1/img_x0.000_y0.000_z-3.205_R</basename>
+<append>NOTHING</append>
+</save>
+<camera name="IIDC Point Grey Research Grasshopper3 GS3-U3-23S6M">
+<trigger>SOFTWARE</trigger>
+<record>ON</record>
+<send_trigger></send_trigger>
+<sleep>0:0:0.050</sleep>
+<record>OFF</record>
+</camera>
+<multiled device="microscope">
+<trigger>EXTERNAL0</trigger>
+<enable channel="1">OFF</enable>
+<set channel="0">0.100</set>
+<number channel="0">1</number>
+<enable channel="0">ON</enable>
+</multiled>
+<save>
+<basename>/home/fa344/data/grid1/img_x0.000_y0.000_z-3.205_G</basename>
+<append>NOTHING</append>
+</save>
+<camera name="IIDC Point Grey Research Grasshopper3 GS3-U3-23S6M">
+<trigger>SOFTWARE</trigger>
+<record>ON</record>
+<send_trigger></send_trigger>
+<sleep>0:0:0.050</sleep>
+<record>OFF</record>
+</camera>
+<multiled device="microscope">
+<trigger>EXTERNAL0</trigger>
+<enable channel="1">OFF</enable>
+<set channel="0">0.100</set>
+<number channel="0">0</number>
+<enable channel="0">ON</enable>
+</multiled>
+<save>
+<basename>/home/fa344/data/grid1/img_x0.000_y0.000_z-3.205_B</basename>
+<append>NOTHING</append>
+</save>
+<camera name="IIDC Point Grey Research Grasshopper3 GS3-U3-23S6M">
+<trigger>SOFTWARE</trigger>
+<record>ON</record>
+<send_trigger></send_trigger>
+<sleep>0:0:0.050</sleep>
+<record>OFF</record>
+</camera>
+<multiled device="microscope">
+<trigger>EXTERNAL0</trigger>
+<enable channel="1">OFF</enable>
+<set channel="0">0.000</set>
+<number channel="0">0</number>
+<enable channel="0">ON</enable>
+</multiled>
+<eclipsetie>
+<zdrive_move_relative>0.256 1</zdrive_move_relative>
+</eclipsetie>
+<multiled device="microscope">
+<trigger>EXTERNAL0</trigger>
+<enable channel="1">OFF</enable>
+<set channel="0">0.100</set>
+<number channel="0">2</number>
+<enable channel="0">ON</enable>
+</multiled>
+<save>
+<basename>/home/fa344/data/grid1/img_x0.000_y0.000_z-2.949_R</basename>
+<append>NOTHING</append>
+</save>
+<camera name="IIDC Point Grey Research Grasshopper3 GS3-U3-23S6M">
+<trigger>SOFTWARE</trigger>
+<record>ON</record>
+<send_trigger></send_trigger>
+<sleep>0:0:0.050</sleep>
+<record>OFF</record>
+</camera>
+<multiled device="microscope">
+<trigger>EXTERNAL0</trigger>
+<enable channel="1">OFF</enable>
+<set channel="0">0.100</set>
+<number channel="0">1</number>
+<enable channel="0">ON</enable>
+</multiled>
+<save>
+<basename>/home/fa344/data/grid1/img_x0.000_y0.000_z-2.949_G</basename>
+<append>NOTHING</append>
+</save>
+<camera name="IIDC Point Grey Research Grasshopper3 GS3-U3-23S6M">
+<trigger>SOFTWARE</trigger>
+<record>ON</record>
+<send_trigger></send_trigger>
+<sleep>0:0:0.050</sleep>
+<record>OFF</record>
+</camera>
+<multiled device="microscope">
+<trigger>EXTERNAL0</trigger>
+<enable channel="1">OFF</enable>
+<set channel="0">0.100</set>
+<number channel="0">0</number>
+<enable channel="0">ON</enable>
+</multiled>
+<save>
+<basename>/home/fa344/data/grid1/img_x0.000_y0.000_z-2.949_B</basename>
+<append>NOTHING</append>
+</save>
+<camera name="IIDC Point Grey Research Grasshopper3 GS3-U3-23S6M">
+<trigger>SOFTWARE</trigger>
+<record>ON</record>
+<send_trigger></send_trigger>
+<sleep>0:0:0.050</sleep>
+<record>OFF</record>
+</camera>
+<multiled device="microscope">
+<trigger>EXTERNAL0</trigger>
+<enable channel="1">OFF</enable>
+<set channel="0">0.000</set>
+<number channel="0">0</number>
+<enable channel="0">ON</enable>
+</multiled>
+<eclipsetie>
+<zdrive_move_relative>0.256 1</zdrive_move_relative>
+</eclipsetie>
+<multiled device="microscope">
+<trigger>EXTERNAL0</trigger>
+<enable channel="1">OFF</enable>
+<set channel="0">0.100</set>
+<number channel="0">2</number>
+<enable channel="0">ON</enable>
+</multiled>
+<save>
+<basename>/home/fa344/data/grid1/img_x0.000_y0.000_z-2.692_R</basename>
+<append>NOTHING</append>
+</save>
+<camera name="IIDC Point Grey Research Grasshopper3 GS3-U3-23S6M">
+<trigger>SOFTWARE</trigger>
+<record>ON</record>
+<send_trigger></send_trigger>
+<sleep>0:0:0.050</sleep>
+<record>OFF</record>
+</camera>
+<multiled device="microscope">
+<trigger>EXTERNAL0</trigger>
+<enable channel="1">OFF</enable>
+<set channel="0">0.100</set>
+<number channel="0">1</number>
+<enable channel="0">ON</enable>
+</multiled>
+<save>
+<basename>/home/fa344/data/grid1/img_x0.000_y0.000_z-2.692_G</basename>
+<append>NOTHING</append>
+</save>
+<camera name="IIDC Point Grey Research Grasshopper3 GS3-U3-23S6M">
+<trigger>SOFTWARE</trigger>
+<record>ON</record>
+<send_trigger></send_trigger>
+<sleep>0:0:0.050</sleep>
+<record>OFF</record>
+</camera>
+<multiled device="microscope">
+<trigger>EXTERNAL0</trigger>
+<enable channel="1">OFF</enable>
+<set channel="0">0.100</set>
+<number channel="0">0</number>
+<enable channel="0">ON</enable>
+</multiled>
+<save>
+<basename>/home/fa344/data/grid1/img_x0.000_y0.000_z-2.692_B</basename>
+<append>NOTHING</append>
+</save>
+<camera name="IIDC Point Grey Research Grasshopper3 GS3-U3-23S6M">
+<trigger>SOFTWARE</trigger>
+<record>ON</record>
+<send_trigger></send_trigger>
+<sleep>0:0:0.050</sleep>
+<record>OFF</record>
+</camera>
+<multiled device="microscope">
+<trigger>EXTERNAL0</trigger>
+<enable channel="1">OFF</enable>
+<set channel="0">0.000</set>
+<number channel="0">0</number>
+<enable channel="0">ON</enable>
+</multiled>
+<eclipsetie>
+<zdrive_move_relative>0.256 1</zdrive_move_relative>
+</eclipsetie>
+<multiled device="microscope">
+<trigger>EXTERNAL0</trigger>
+<enable channel="1">OFF</enable>
+<set channel="0">0.100</set>
+<number channel="0">2</number>
+<enable channel="0">ON</enable>
+</multiled>
+<save>
+<basename>/home/fa344/data/grid1/img_x0.000_y0.000_z-2.436_R</basename>
+<append>NOTHING</append>
+</save>
+<camera name="IIDC Point Grey Research Grasshopper3 GS3-U3-23S6M">
+<trigger>SOFTWARE</trigger>
+<record>ON</record>
+<send_trigger></send_trigger>
+<sleep>0:0:0.050</sleep>
+<record>OFF</record>
+</camera>
+<multiled device="microscope">
+<trigger>EXTERNAL0</trigger>
+<enable channel="1">OFF</enable>
+<set channel="0">0.100</set>
+<number channel="0">1</number>
+<enable channel="0">ON</enable>
+</multiled>
+<save>
+<basename>/home/fa344/data/grid1/img_x0.000_y0.000_z-2.436_G</basename>
+<append>NOTHING</append>
+</save>
+<camera name="IIDC Point Grey Research Grasshopper3 GS3-U3-23S6M">
+<trigger>SOFTWARE</trigger>
+<record>ON</record>
+<send_trigger></send_trigger>
+<sleep>0:0:0.050</sleep>
+<record>OFF</record>
+</camera>
+<multiled device="microscope">
+<trigger>EXTERNAL0</trigger>
+<enable channel="1">OFF</enable>
+<set channel="0">0.100</set>
+<number channel="0">0</number>
+<enable channel="0">ON</enable>
+</multiled>
+<save>
+<basename>/home/fa344/data/grid1/img_x0.000_y0.000_z-2.436_B</basename>
+<append>NOTHING</append>
+</save>
+<camera name="IIDC Point Grey Research Grasshopper3 GS3-U3-23S6M">
+<trigger>SOFTWARE</trigger>
+<record>ON</record>
+<send_trigger></send_trigger>
+<sleep>0:0:0.050</sleep>
+<record>OFF</record>
+</camera>
+<multiled device="microscope">
+<trigger>EXTERNAL0</trigger>
+<enable channel="1">OFF</enable>
+<set channel="0">0.000</set>
+<number channel="0">0</number>
+<enable channel="0">ON</enable>
+</multiled>
+<eclipsetie>
+<zdrive_move_relative>0.256 1</zdrive_move_relative>
+</eclipsetie>
+<multiled device="microscope">
+<trigger>EXTERNAL0</trigger>
+<enable channel="1">OFF</enable>
+<set channel="0">0.100</set>
+<number channel="0">2</number>
+<enable channel="0">ON</enable>
+</multiled>
+<save>
+<basename>/home/fa344/data/grid1/img_x0.000_y0.000_z-2.179_R</basename>
+<append>NOTHING</append>
+</save>
+<camera name="IIDC Point Grey Research Grasshopper3 GS3-U3-23S6M">
+<trigger>SOFTWARE</trigger>
+<record>ON</record>
+<send_trigger></send_trigger>
+<sleep>0:0:0.050</sleep>
+<record>OFF</record>
+</camera>
+<multiled device="microscope">
+<trigger>EXTERNAL0</trigger>
+<enable channel="1">OFF</enable>
+<set channel="0">0.100</set>
+<number channel="0">1</number>
+<enable channel="0">ON</enable>
+</multiled>
+<save>
+<basename>/home/fa344/data/grid1/img_x0.000_y0.000_z-2.179_G</basename>
+<append>NOTHING</append>
+</save>
+<camera name="IIDC Point Grey Research Grasshopper3 GS3-U3-23S6M">
+<trigger>SOFTWARE</trigger>
+<record>ON</record>
+<send_trigger></send_trigger>
+<sleep>0:0:0.050</sleep>
+<record>OFF</record>
+</camera>
+<multiled device="microscope">
+<trigger>EXTERNAL0</trigger>
+<enable channel="1">OFF</enable>
+<set channel="0">0.100</set>
+<number channel="0">0</number>
+<enable channel="0">ON</enable>
+</multiled>
+<save>
+<basename>/home/fa344/data/grid1/img_x0.000_y0.000_z-2.179_B</basename>
+<append>NOTHING</append>
+</save>
+<camera name="IIDC Point Grey Research Grasshopper3 GS3-U3-23S6M">
+<trigger>SOFTWARE</trigger>
+<record>ON</record>
+<send_trigger></send_trigger>
+<sleep>0:0:0.050</sleep>
+<record>OFF</record>
+</camera>
+<multiled device="microscope">
+<trigger>EXTERNAL0</trigger>
+<enable channel="1">OFF</enable>
+<set channel="0">0.000</set>
+<number channel="0">0</number>
+<enable channel="0">ON</enable>
+</multiled>
+<eclipsetie>
+<zdrive_move_relative>0.256 1</zdrive_move_relative>
+</eclipsetie>
+<multiled device="microscope">
+<trigger>EXTERNAL0</trigger>
+<enable channel="1">OFF</enable>
+<set channel="0">0.100</set>
+<number channel="0">2</number>
+<enable channel="0">ON</enable>
+</multiled>
+<save>
+<basename>/home/fa344/data/grid1/img_x0.000_y0.000_z-1.923_R</basename>
+<append>NOTHING</append>
+</save>
+<camera name="IIDC Point Grey Research Grasshopper3 GS3-U3-23S6M">
+<trigger>SOFTWARE</trigger>
+<record>ON</record>
+<send_trigger></send_trigger>
+<sleep>0:0:0.050</sleep>
+<record>OFF</record>
+</camera>
+<multiled device="microscope">
+<trigger>EXTERNAL0</trigger>
+<enable channel="1">OFF</enable>
+<set channel="0">0.100</set>
+<number channel="0">1</number>
+<enable channel="0">ON</enable>
+</multiled>
+<save>
+<basename>/home/fa344/data/grid1/img_x0.000_y0.000_z-1.923_G</basename>
+<append>NOTHING</append>
+</save>
+<camera name="IIDC Point Grey Research Grasshopper3 GS3-U3-23S6M">
+<trigger>SOFTWARE</trigger>
+<record>ON</record>
+<send_trigger></send_trigger>
+<sleep>0:0:0.050</sleep>
+<record>OFF</record>
+</camera>
+<multiled device="microscope">
+<trigger>EXTERNAL0</trigger>
+<enable channel="1">OFF</enable>
+<set channel="0">0.100</set>
+<number channel="0">0</number>
+<enable channel="0">ON</enable>
+</multiled>
+<save>
+<basename>/home/fa344/data/grid1/img_x0.000_y0.000_z-1.923_B</basename>
+<append>NOTHING</append>
+</save>
+<camera name="IIDC Point Grey Research Grasshopper3 GS3-U3-23S6M">
+<trigger>SOFTWARE</trigger>
+<record>ON</record>
+<send_trigger></send_trigger>
+<sleep>0:0:0.050</sleep>
+<record>OFF</record>
+</camera>
+<multiled device="microscope">
+<trigger>EXTERNAL0</trigger>
+<enable channel="1">OFF</enable>
+<set channel="0">0.000</set>
+<number channel="0">0</number>
+<enable channel="0">ON</enable>
+</multiled>
+<eclipsetie>
+<zdrive_move_relative>0.256 1</zdrive_move_relative>
+</eclipsetie>
+<multiled device="microscope">
+<trigger>EXTERNAL0</trigger>
+<enable channel="1">OFF</enable>
+<set channel="0">0.100</set>
+<number channel="0">2</number>
+<enable channel="0">ON</enable>
+</multiled>
+<save>
+<basename>/home/fa344/data/grid1/img_x0.000_y0.000_z-1.667_R</basename>
+<append>NOTHING</append>
+</save>
+<camera name="IIDC Point Grey Research Grasshopper3 GS3-U3-23S6M">
+<trigger>SOFTWARE</trigger>
+<record>ON</record>
+<send_trigger></send_trigger>
+<sleep>0:0:0.050</sleep>
+<record>OFF</record>
+</camera>
+<multiled device="microscope">
+<trigger>EXTERNAL0</trigger>
+<enable channel="1">OFF</enable>
+<set channel="0">0.100</set>
+<number channel="0">1</number>
+<enable channel="0">ON</enable>
+</multiled>
+<save>
+<basename>/home/fa344/data/grid1/img_x0.000_y0.000_z-1.667_G</basename>
+<append>NOTHING</append>
+</save>
+<camera name="IIDC Point Grey Research Grasshopper3 GS3-U3-23S6M">
+<trigger>SOFTWARE</trigger>
+<record>ON</record>
+<send_trigger></send_trigger>
+<sleep>0:0:0.050</sleep>
+<record>OFF</record>
+</camera>
+<multiled device="microscope">
+<trigger>EXTERNAL0</trigger>
+<enable channel="1">OFF</enable>
+<set channel="0">0.100</set>
+<number channel="0">0</number>
+<enable channel="0">ON</enable>
+</multiled>
+<save>
+<basename>/home/fa344/data/grid1/img_x0.000_y0.000_z-1.667_B</basename>
+<append>NOTHING</append>
+</save>
+<camera name="IIDC Point Grey Research Grasshopper3 GS3-U3-23S6M">
+<trigger>SOFTWARE</trigger>
+<record>ON</record>
+<send_trigger></send_trigger>
+<sleep>0:0:0.050</sleep>
+<record>OFF</record>
+</camera>
+<multiled device="microscope">
+<trigger>EXTERNAL0</trigger>
+<enable channel="1">OFF</enable>
+<set channel="0">0.000</set>
+<number channel="0">0</number>
+<enable channel="0">ON</enable>
+</multiled>
+<eclipsetie>
+<zdrive_move_relative>0.256 1</zdrive_move_relative>
+</eclipsetie>
+<multiled device="microscope">
+<trigger>EXTERNAL0</trigger>
+<enable channel="1">OFF</enable>
+<set channel="0">0.100</set>
+<number channel="0">2</number>
+<enable channel="0">ON</enable>
+</multiled>
+<save>
+<basename>/home/fa344/data/grid1/img_x0.000_y0.000_z-1.410_R</basename>
+<append>NOTHING</append>
+</save>
+<camera name="IIDC Point Grey Research Grasshopper3 GS3-U3-23S6M">
+<trigger>SOFTWARE</trigger>
+<record>ON</record>
+<send_trigger></send_trigger>
+<sleep>0:0:0.050</sleep>
+<record>OFF</record>
+</camera>
+<multiled device="microscope">
+<trigger>EXTERNAL0</trigger>
+<enable channel="1">OFF</enable>
+<set channel="0">0.100</set>
+<number channel="0">1</number>
+<enable channel="0">ON</enable>
+</multiled>
+<save>
+<basename>/home/fa344/data/grid1/img_x0.000_y0.000_z-1.410_G</basename>
+<append>NOTHING</append>
+</save>
+<camera name="IIDC Point Grey Research Grasshopper3 GS3-U3-23S6M">
+<trigger>SOFTWARE</trigger>
+<record>ON</record>
+<send_trigger></send_trigger>
+<sleep>0:0:0.050</sleep>
+<record>OFF</record>
+</camera>
+<multiled device="microscope">
+<trigger>EXTERNAL0</trigger>
+<enable channel="1">OFF</enable>
+<set channel="0">0.100</set>
+<number channel="0">0</number>
+<enable channel="0">ON</enable>
+</multiled>
+<save>
+<basename>/home/fa344/data/grid1/img_x0.000_y0.000_z-1.410_B</basename>
+<append>NOTHING</append>
+</save>
+<camera name="IIDC Point Grey Research Grasshopper3 GS3-U3-23S6M">
+<trigger>SOFTWARE</trigger>
+<record>ON</record>
+<send_trigger></send_trigger>
+<sleep>0:0:0.050</sleep>
+<record>OFF</record>
+</camera>
+<multiled device="microscope">
+<trigger>EXTERNAL0</trigger>
+<enable channel="1">OFF</enable>
+<set channel="0">0.000</set>
+<number channel="0">0</number>
+<enable channel="0">ON</enable>
+</multiled>
+<eclipsetie>
+<zdrive_move_relative>0.256 1</zdrive_move_relative>
+</eclipsetie>
+<multiled device="microscope">
+<trigger>EXTERNAL0</trigger>
+<enable channel="1">OFF</enable>
+<set channel="0">0.100</set>
+<number channel="0">2</number>
+<enable channel="0">ON</enable>
+</multiled>
+<save>
+<basename>/home/fa344/data/grid1/img_x0.000_y0.000_z-1.154_R</basename>
+<append>NOTHING</append>
+</save>
+<camera name="IIDC Point Grey Research Grasshopper3 GS3-U3-23S6M">
+<trigger>SOFTWARE</trigger>
+<record>ON</record>
+<send_trigger></send_trigger>
+<sleep>0:0:0.050</sleep>
+<record>OFF</record>
+</camera>
+<multiled device="microscope">
+<trigger>EXTERNAL0</trigger>
+<enable channel="1">OFF</enable>
+<set channel="0">0.100</set>
+<number channel="0">1</number>
+<enable channel="0">ON</enable>
+</multiled>
+<save>
+<basename>/home/fa344/data/grid1/img_x0.000_y0.000_z-1.154_G</basename>
+<append>NOTHING</append>
+</save>
+<camera name="IIDC Point Grey Research Grasshopper3 GS3-U3-23S6M">
+<trigger>SOFTWARE</trigger>
+<record>ON</record>
+<send_trigger></send_trigger>
+<sleep>0:0:0.050</sleep>
+<record>OFF</record>
+</camera>
+<multiled device="microscope">
+<trigger>EXTERNAL0</trigger>
+<enable channel="1">OFF</enable>
+<set channel="0">0.100</set>
+<number channel="0">0</number>
+<enable channel="0">ON</enable>
+</multiled>
+<save>
+<basename>/home/fa344/data/grid1/img_x0.000_y0.000_z-1.154_B</basename>
+<append>NOTHING</append>
+</save>
+<camera name="IIDC Point Grey Research Grasshopper3 GS3-U3-23S6M">
+<trigger>SOFTWARE</trigger>
+<record>ON</record>
+<send_trigger></send_trigger>
+<sleep>0:0:0.050</sleep>
+<record>OFF</record>
+</camera>
+<multiled device="microscope">
+<trigger>EXTERNAL0</trigger>
+<enable channel="1">OFF</enable>
+<set channel="0">0.000</set>
+<number channel="0">0</number>
+<enable channel="0">ON</enable>
+</multiled>
+<eclipsetie>
+<zdrive_move_relative>0.256 1</zdrive_move_relative>
+</eclipsetie>
+<multiled device="microscope">
+<trigger>EXTERNAL0</trigger>
+<enable channel="1">OFF</enable>
+<set channel="0">0.100</set>
+<number channel="0">2</number>
+<enable channel="0">ON</enable>
+</multiled>
+<save>
+<basename>/home/fa344/data/grid1/img_x0.000_y0.000_z-0.897_R</basename>
+<append>NOTHING</append>
+</save>
+<camera name="IIDC Point Grey Research Grasshopper3 GS3-U3-23S6M">
+<trigger>SOFTWARE</trigger>
+<record>ON</record>
+<send_trigger></send_trigger>
+<sleep>0:0:0.050</sleep>
+<record>OFF</record>
+</camera>
+<multiled device="microscope">
+<trigger>EXTERNAL0</trigger>
+<enable channel="1">OFF</enable>
+<set channel="0">0.100</set>
+<number channel="0">1</number>
+<enable channel="0">ON</enable>
+</multiled>
+<save>
+<basename>/home/fa344/data/grid1/img_x0.000_y0.000_z-0.897_G</basename>
+<append>NOTHING</append>
+</save>
+<camera name="IIDC Point Grey Research Grasshopper3 GS3-U3-23S6M">
+<trigger>SOFTWARE</trigger>
+<record>ON</record>
+<send_trigger></send_trigger>
+<sleep>0:0:0.050</sleep>
+<record>OFF</record>
+</camera>
+<multiled device="microscope">
+<trigger>EXTERNAL0</trigger>
+<enable channel="1">OFF</enable>
+<set channel="0">0.100</set>
+<number channel="0">0</number>
+<enable channel="0">ON</enable>
+</multiled>
+<save>
+<basename>/home/fa344/data/grid1/img_x0.000_y0.000_z-0.897_B</basename>
+<append>NOTHING</append>
+</save>
+<camera name="IIDC Point Grey Research Grasshopper3 GS3-U3-23S6M">
+<trigger>SOFTWARE</trigger>
+<record>ON</record>
+<send_trigger></send_trigger>
+<sleep>0:0:0.050</sleep>
+<record>OFF</record>
+</camera>
+<multiled device="microscope">
+<trigger>EXTERNAL0</trigger>
+<enable channel="1">OFF</enable>
+<set channel="0">0.000</set>
+<number channel="0">0</number>
+<enable channel="0">ON</enable>
+</multiled>
+<eclipsetie>
+<zdrive_move_relative>0.256 1</zdrive_move_relative>
+</eclipsetie>
+<multiled device="microscope">
+<trigger>EXTERNAL0</trigger>
+<enable channel="1">OFF</enable>
+<set channel="0">0.100</set>
+<number channel="0">2</number>
+<enable channel="0">ON</enable>
+</multiled>
+<save>
+<basename>/home/fa344/data/grid1/img_x0.000_y0.000_z-0.641_R</basename>
+<append>NOTHING</append>
+</save>
+<camera name="IIDC Point Grey Research Grasshopper3 GS3-U3-23S6M">
+<trigger>SOFTWARE</trigger>
+<record>ON</record>
+<send_trigger></send_trigger>
+<sleep>0:0:0.050</sleep>
+<record>OFF</record>
+</camera>
+<multiled device="microscope">
+<trigger>EXTERNAL0</trigger>
+<enable channel="1">OFF</enable>
+<set channel="0">0.100</set>
+<number channel="0">1</number>
+<enable channel="0">ON</enable>
+</multiled>
+<save>
+<basename>/home/fa344/data/grid1/img_x0.000_y0.000_z-0.641_G</basename>
+<append>NOTHING</append>
+</save>
+<camera name="IIDC Point Grey Research Grasshopper3 GS3-U3-23S6M">
+<trigger>SOFTWARE</trigger>
+<record>ON</record>
+<send_trigger></send_trigger>
+<sleep>0:0:0.050</sleep>
+<record>OFF</record>
+</camera>
+<multiled device="microscope">
+<trigger>EXTERNAL0</trigger>
+<enable channel="1">OFF</enable>
+<set channel="0">0.100</set>
+<number channel="0">0</number>
+<enable channel="0">ON</enable>
+</multiled>
+<save>
+<basename>/home/fa344/data/grid1/img_x0.000_y0.000_z-0.641_B</basename>
+<append>NOTHING</append>
+</save>
+<camera name="IIDC Point Grey Research Grasshopper3 GS3-U3-23S6M">
+<trigger>SOFTWARE</trigger>
+<record>ON</record>
+<send_trigger></send_trigger>
+<sleep>0:0:0.050</sleep>
+<record>OFF</record>
+</camera>
+<multiled device="microscope">
+<trigger>EXTERNAL0</trigger>
+<enable channel="1">OFF</enable>
+<set channel="0">0.000</set>
+<number channel="0">0</number>
+<enable channel="0">ON</enable>
+</multiled>
+<eclipsetie>
+<zdrive_move_relative>0.256 1</zdrive_move_relative>
+</eclipsetie>
+<multiled device="microscope">
+<trigger>EXTERNAL0</trigger>
+<enable channel="1">OFF</enable>
+<set channel="0">0.100</set>
+<number channel="0">2</number>
+<enable channel="0">ON</enable>
+</multiled>
+<save>
+<basename>/home/fa344/data/grid1/img_x0.000_y0.000_z-0.385_R</basename>
+<append>NOTHING</append>
+</save>
+<camera name="IIDC Point Grey Research Grasshopper3 GS3-U3-23S6M">
+<trigger>SOFTWARE</trigger>
+<record>ON</record>
+<send_trigger></send_trigger>
+<sleep>0:0:0.050</sleep>
+<record>OFF</record>
+</camera>
+<multiled device="microscope">
+<trigger>EXTERNAL0</trigger>
+<enable channel="1">OFF</enable>
+<set channel="0">0.100</set>
+<number channel="0">1</number>
+<enable channel="0">ON</enable>
+</multiled>
+<save>
+<basename>/home/fa344/data/grid1/img_x0.000_y0.000_z-0.385_G</basename>
+<append>NOTHING</append>
+</save>
+<camera name="IIDC Point Grey Research Grasshopper3 GS3-U3-23S6M">
+<trigger>SOFTWARE</trigger>
+<record>ON</record>
+<send_trigger></send_trigger>
+<sleep>0:0:0.050</sleep>
+<record>OFF</record>
+</camera>
+<multiled device="microscope">
+<trigger>EXTERNAL0</trigger>
+<enable channel="1">OFF</enable>
+<set channel="0">0.100</set>
+<number channel="0">0</number>
+<enable channel="0">ON</enable>
+</multiled>
+<save>
+<basename>/home/fa344/data/grid1/img_x0.000_y0.000_z-0.385_B</basename>
+<append>NOTHING</append>
+</save>
+<camera name="IIDC Point Grey Research Grasshopper3 GS3-U3-23S6M">
+<trigger>SOFTWARE</trigger>
+<record>ON</record>
+<send_trigger></send_trigger>
+<sleep>0:0:0.050</sleep>
+<record>OFF</record>
+</camera>
+<multiled device="microscope">
+<trigger>EXTERNAL0</trigger>
+<enable channel="1">OFF</enable>
+<set channel="0">0.000</set>
+<number channel="0">0</number>
+<enable channel="0">ON</enable>
+</multiled>
+<eclipsetie>
+<zdrive_move_relative>0.256 1</zdrive_move_relative>
+</eclipsetie>
+<multiled device="microscope">
+<trigger>EXTERNAL0</trigger>
+<enable channel="1">OFF</enable>
+<set channel="0">0.100</set>
+<number channel="0">2</number>
+<enable channel="0">ON</enable>
+</multiled>
+<save>
+<basename>/home/fa344/data/grid1/img_x0.000_y0.000_z-0.128_R</basename>
+<append>NOTHING</append>
+</save>
+<camera name="IIDC Point Grey Research Grasshopper3 GS3-U3-23S6M">
+<trigger>SOFTWARE</trigger>
+<record>ON</record>
+<send_trigger></send_trigger>
+<sleep>0:0:0.050</sleep>
+<record>OFF</record>
+</camera>
+<multiled device="microscope">
+<trigger>EXTERNAL0</trigger>
+<enable channel="1">OFF</enable>
+<set channel="0">0.100</set>
+<number channel="0">1</number>
+<enable channel="0">ON</enable>
+</multiled>
+<save>
+<basename>/home/fa344/data/grid1/img_x0.000_y0.000_z-0.128_G</basename>
+<append>NOTHING</append>
+</save>
+<camera name="IIDC Point Grey Research Grasshopper3 GS3-U3-23S6M">
+<trigger>SOFTWARE</trigger>
+<record>ON</record>
+<send_trigger></send_trigger>
+<sleep>0:0:0.050</sleep>
+<record>OFF</record>
+</camera>
+<multiled device="microscope">
+<trigger>EXTERNAL0</trigger>
+<enable channel="1">OFF</enable>
+<set channel="0">0.100</set>
+<number channel="0">0</number>
+<enable channel="0">ON</enable>
+</multiled>
+<save>
+<basename>/home/fa344/data/grid1/img_x0.000_y0.000_z-0.128_B</basename>
+<append>NOTHING</append>
+</save>
+<camera name="IIDC Point Grey Research Grasshopper3 GS3-U3-23S6M">
+<trigger>SOFTWARE</trigger>
+<record>ON</record>
+<send_trigger></send_trigger>
+<sleep>0:0:0.050</sleep>
+<record>OFF</record>
+</camera>
+<multiled device="microscope">
+<trigger>EXTERNAL0</trigger>
+<enable channel="1">OFF</enable>
+<set channel="0">0.000</set>
+<number channel="0">0</number>
+<enable channel="0">ON</enable>
+</multiled>
+<eclipsetie>
+<zdrive_move_relative>0.256 1</zdrive_move_relative>
+</eclipsetie>
+<multiled device="microscope">
+<trigger>EXTERNAL0</trigger>
+<enable channel="1">OFF</enable>
+<set channel="0">0.100</set>
+<number channel="0">2</number>
+<enable channel="0">ON</enable>
+</multiled>
+<save>
+<basename>/home/fa344/data/grid1/img_x0.000_y0.000_z0.128_R</basename>
+<append>NOTHING</append>
+</save>
+<camera name="IIDC Point Grey Research Grasshopper3 GS3-U3-23S6M">
+<trigger>SOFTWARE</trigger>
+<record>ON</record>
+<send_trigger></send_trigger>
+<sleep>0:0:0.050</sleep>
+<record>OFF</record>
+</camera>
+<multiled device="microscope">
+<trigger>EXTERNAL0</trigger>
+<enable channel="1">OFF</enable>
+<set channel="0">0.100</set>
+<number channel="0">1</number>
+<enable channel="0">ON</enable>
+</multiled>
+<save>
+<basename>/home/fa344/data/grid1/img_x0.000_y0.000_z0.128_G</basename>
+<append>NOTHING</append>
+</save>
+<camera name="IIDC Point Grey Research Grasshopper3 GS3-U3-23S6M">
+<trigger>SOFTWARE</trigger>
+<record>ON</record>
+<send_trigger></send_trigger>
+<sleep>0:0:0.050</sleep>
+<record>OFF</record>
+</camera>
+<multiled device="microscope">
+<trigger>EXTERNAL0</trigger>
+<enable channel="1">OFF</enable>
+<set channel="0">0.100</set>
+<number channel="0">0</number>
+<enable channel="0">ON</enable>
+</multiled>
+<save>
+<basename>/home/fa344/data/grid1/img_x0.000_y0.000_z0.128_B</basename>
+<append>NOTHING</append>
+</save>
+<camera name="IIDC Point Grey Research Grasshopper3 GS3-U3-23S6M">
+<trigger>SOFTWARE</trigger>
+<record>ON</record>
+<send_trigger></send_trigger>
+<sleep>0:0:0.050</sleep>
+<record>OFF</record>
+</camera>
+<multiled device="microscope">
+<trigger>EXTERNAL0</trigger>
+<enable channel="1">OFF</enable>
+<set channel="0">0.000</set>
+<number channel="0">0</number>
+<enable channel="0">ON</enable>
+</multiled>
+<eclipsetie>
+<zdrive_move_relative>0.256 1</zdrive_move_relative>
+</eclipsetie>
+<multiled device="microscope">
+<trigger>EXTERNAL0</trigger>
+<enable channel="1">OFF</enable>
+<set channel="0">0.100</set>
+<number channel="0">2</number>
+<enable channel="0">ON</enable>
+</multiled>
+<save>
+<basename>/home/fa344/data/grid1/img_x0.000_y0.000_z0.385_R</basename>
+<append>NOTHING</append>
+</save>
+<camera name="IIDC Point Grey Research Grasshopper3 GS3-U3-23S6M">
+<trigger>SOFTWARE</trigger>
+<record>ON</record>
+<send_trigger></send_trigger>
+<sleep>0:0:0.050</sleep>
+<record>OFF</record>
+</camera>
+<multiled device="microscope">
+<trigger>EXTERNAL0</trigger>
+<enable channel="1">OFF</enable>
+<set channel="0">0.100</set>
+<number channel="0">1</number>
+<enable channel="0">ON</enable>
+</multiled>
+<save>
+<basename>/home/fa344/data/grid1/img_x0.000_y0.000_z0.385_G</basename>
+<append>NOTHING</append>
+</save>
+<camera name="IIDC Point Grey Research Grasshopper3 GS3-U3-23S6M">
+<trigger>SOFTWARE</trigger>
+<record>ON</record>
+<send_trigger></send_trigger>
+<sleep>0:0:0.050</sleep>
+<record>OFF</record>
+</camera>
+<multiled device="microscope">
+<trigger>EXTERNAL0</trigger>
+<enable channel="1">OFF</enable>
+<set channel="0">0.100</set>
+<number channel="0">0</number>
+<enable channel="0">ON</enable>
+</multiled>
+<save>
+<basename>/home/fa344/data/grid1/img_x0.000_y0.000_z0.385_B</basename>
+<append>NOTHING</append>
+</save>
+<camera name="IIDC Point Grey Research Grasshopper3 GS3-U3-23S6M">
+<trigger>SOFTWARE</trigger>
+<record>ON</record>
+<send_trigger></send_trigger>
+<sleep>0:0:0.050</sleep>
+<record>OFF</record>
+</camera>
+<multiled device="microscope">
+<trigger>EXTERNAL0</trigger>
+<enable channel="1">OFF</enable>
+<set channel="0">0.000</set>
+<number channel="0">0</number>
+<enable channel="0">ON</enable>
+</multiled>
+<eclipsetie>
+<zdrive_move_relative>0.256 1</zdrive_move_relative>
+</eclipsetie>
+<multiled device="microscope">
+<trigger>EXTERNAL0</trigger>
+<enable channel="1">OFF</enable>
+<set channel="0">0.100</set>
+<number channel="0">2</number>
+<enable channel="0">ON</enable>
+</multiled>
+<save>
+<basename>/home/fa344/data/grid1/img_x0.000_y0.000_z0.641_R</basename>
+<append>NOTHING</append>
+</save>
+<camera name="IIDC Point Grey Research Grasshopper3 GS3-U3-23S6M">
+<trigger>SOFTWARE</trigger>
+<record>ON</record>
+<send_trigger></send_trigger>
+<sleep>0:0:0.050</sleep>
+<record>OFF</record>
+</camera>
+<multiled device="microscope">
+<trigger>EXTERNAL0</trigger>
+<enable channel="1">OFF</enable>
+<set channel="0">0.100</set>
+<number channel="0">1</number>
+<enable channel="0">ON</enable>
+</multiled>
+<save>
+<basename>/home/fa344/data/grid1/img_x0.000_y0.000_z0.641_G</basename>
+<append>NOTHING</append>
+</save>
+<camera name="IIDC Point Grey Research Grasshopper3 GS3-U3-23S6M">
+<trigger>SOFTWARE</trigger>
+<record>ON</record>
+<send_trigger></send_trigger>
+<sleep>0:0:0.050</sleep>
+<record>OFF</record>
+</camera>
+<multiled device="microscope">
+<trigger>EXTERNAL0</trigger>
+<enable channel="1">OFF</enable>
+<set channel="0">0.100</set>
+<number channel="0">0</number>
+<enable channel="0">ON</enable>
+</multiled>
+<save>
+<basename>/home/fa344/data/grid1/img_x0.000_y0.000_z0.641_B</basename>
+<append>NOTHING</append>
+</save>
+<camera name="IIDC Point Grey Research Grasshopper3 GS3-U3-23S6M">
+<trigger>SOFTWARE</trigger>
+<record>ON</record>
+<send_trigger></send_trigger>
+<sleep>0:0:0.050</sleep>
+<record>OFF</record>
+</camera>
+<multiled device="microscope">
+<trigger>EXTERNAL0</trigger>
+<enable channel="1">OFF</enable>
+<set channel="0">0.000</set>
+<number channel="0">0</number>
+<enable channel="0">ON</enable>
+</multiled>
+<eclipsetie>
+<zdrive_move_relative>0.256 1</zdrive_move_relative>
+</eclipsetie>
+<multiled device="microscope">
+<trigger>EXTERNAL0</trigger>
+<enable channel="1">OFF</enable>
+<set channel="0">0.100</set>
+<number channel="0">2</number>
+<enable channel="0">ON</enable>
+</multiled>
+<save>
+<basename>/home/fa344/data/grid1/img_x0.000_y0.000_z0.897_R</basename>
+<append>NOTHING</append>
+</save>
+<camera name="IIDC Point Grey Research Grasshopper3 GS3-U3-23S6M">
+<trigger>SOFTWARE</trigger>
+<record>ON</record>
+<send_trigger></send_trigger>
+<sleep>0:0:0.050</sleep>
+<record>OFF</record>
+</camera>
+<multiled device="microscope">
+<trigger>EXTERNAL0</trigger>
+<enable channel="1">OFF</enable>
+<set channel="0">0.100</set>
+<number channel="0">1</number>
+<enable channel="0">ON</enable>
+</multiled>
+<save>
+<basename>/home/fa344/data/grid1/img_x0.000_y0.000_z0.897_G</basename>
+<append>NOTHING</append>
+</save>
+<camera name="IIDC Point Grey Research Grasshopper3 GS3-U3-23S6M">
+<trigger>SOFTWARE</trigger>
+<record>ON</record>
+<send_trigger></send_trigger>
+<sleep>0:0:0.050</sleep>
+<record>OFF</record>
+</camera>
+<multiled device="microscope">
+<trigger>EXTERNAL0</trigger>
+<enable channel="1">OFF</enable>
+<set channel="0">0.100</set>
+<number channel="0">0</number>
+<enable channel="0">ON</enable>
+</multiled>
+<save>
+<basename>/home/fa344/data/grid1/img_x0.000_y0.000_z0.897_B</basename>
+<append>NOTHING</append>
+</save>
+<camera name="IIDC Point Grey Research Grasshopper3 GS3-U3-23S6M">
+<trigger>SOFTWARE</trigger>
+<record>ON</record>
+<send_trigger></send_trigger>
+<sleep>0:0:0.050</sleep>
+<record>OFF</record>
+</camera>
+<multiled device="microscope">
+<trigger>EXTERNAL0</trigger>
+<enable channel="1">OFF</enable>
+<set channel="0">0.000</set>
+<number channel="0">0</number>
+<enable channel="0">ON</enable>
+</multiled>
+<eclipsetie>
+<zdrive_move_relative>0.256 1</zdrive_move_relative>
+</eclipsetie>
+<multiled device="microscope">
+<trigger>EXTERNAL0</trigger>
+<enable channel="1">OFF</enable>
+<set channel="0">0.100</set>
+<number channel="0">2</number>
+<enable channel="0">ON</enable>
+</multiled>
+<save>
+<basename>/home/fa344/data/grid1/img_x0.000_y0.000_z1.154_R</basename>
+<append>NOTHING</append>
+</save>
+<camera name="IIDC Point Grey Research Grasshopper3 GS3-U3-23S6M">
+<trigger>SOFTWARE</trigger>
+<record>ON</record>
+<send_trigger></send_trigger>
+<sleep>0:0:0.050</sleep>
+<record>OFF</record>
+</camera>
+<multiled device="microscope">
+<trigger>EXTERNAL0</trigger>
+<enable channel="1">OFF</enable>
+<set channel="0">0.100</set>
+<number channel="0">1</number>
+<enable channel="0">ON</enable>
+</multiled>
+<save>
+<basename>/home/fa344/data/grid1/img_x0.000_y0.000_z1.154_G</basename>
+<append>NOTHING</append>
+</save>
+<camera name="IIDC Point Grey Research Grasshopper3 GS3-U3-23S6M">
+<trigger>SOFTWARE</trigger>
+<record>ON</record>
+<send_trigger></send_trigger>
+<sleep>0:0:0.050</sleep>
+<record>OFF</record>
+</camera>
+<multiled device="microscope">
+<trigger>EXTERNAL0</trigger>
+<enable channel="1">OFF</enable>
+<set channel="0">0.100</set>
+<number channel="0">0</number>
+<enable channel="0">ON</enable>
+</multiled>
+<save>
+<basename>/home/fa344/data/grid1/img_x0.000_y0.000_z1.154_B</basename>
+<append>NOTHING</append>
+</save>
+<camera name="IIDC Point Grey Research Grasshopper3 GS3-U3-23S6M">
+<trigger>SOFTWARE</trigger>
+<record>ON</record>
+<send_trigger></send_trigger>
+<sleep>0:0:0.050</sleep>
+<record>OFF</record>
+</camera>
+<multiled device="microscope">
+<trigger>EXTERNAL0</trigger>
+<enable channel="1">OFF</enable>
+<set channel="0">0.000</set>
+<number channel="0">0</number>
+<enable channel="0">ON</enable>
+</multiled>
+<eclipsetie>
+<zdrive_move_relative>0.256 1</zdrive_move_relative>
+</eclipsetie>
+<multiled device="microscope">
+<trigger>EXTERNAL0</trigger>
+<enable channel="1">OFF</enable>
+<set channel="0">0.100</set>
+<number channel="0">2</number>
+<enable channel="0">ON</enable>
+</multiled>
+<save>
+<basename>/home/fa344/data/grid1/img_x0.000_y0.000_z1.410_R</basename>
+<append>NOTHING</append>
+</save>
+<camera name="IIDC Point Grey Research Grasshopper3 GS3-U3-23S6M">
+<trigger>SOFTWARE</trigger>
+<record>ON</record>
+<send_trigger></send_trigger>
+<sleep>0:0:0.050</sleep>
+<record>OFF</record>
+</camera>
+<multiled device="microscope">
+<trigger>EXTERNAL0</trigger>
+<enable channel="1">OFF</enable>
+<set channel="0">0.100</set>
+<number channel="0">1</number>
+<enable channel="0">ON</enable>
+</multiled>
+<save>
+<basename>/home/fa344/data/grid1/img_x0.000_y0.000_z1.410_G</basename>
+<append>NOTHING</append>
+</save>
+<camera name="IIDC Point Grey Research Grasshopper3 GS3-U3-23S6M">
+<trigger>SOFTWARE</trigger>
+<record>ON</record>
+<send_trigger></send_trigger>
+<sleep>0:0:0.050</sleep>
+<record>OFF</record>
+</camera>
+<multiled device="microscope">
+<trigger>EXTERNAL0</trigger>
+<enable channel="1">OFF</enable>
+<set channel="0">0.100</set>
+<number channel="0">0</number>
+<enable channel="0">ON</enable>
+</multiled>
+<save>
+<basename>/home/fa344/data/grid1/img_x0.000_y0.000_z1.410_B</basename>
+<append>NOTHING</append>
+</save>
+<camera name="IIDC Point Grey Research Grasshopper3 GS3-U3-23S6M">
+<trigger>SOFTWARE</trigger>
+<record>ON</record>
+<send_trigger></send_trigger>
+<sleep>0:0:0.050</sleep>
+<record>OFF</record>
+</camera>
+<multiled device="microscope">
+<trigger>EXTERNAL0</trigger>
+<enable channel="1">OFF</enable>
+<set channel="0">0.000</set>
+<number channel="0">0</number>
+<enable channel="0">ON</enable>
+</multiled>
+<eclipsetie>
+<zdrive_move_relative>0.256 1</zdrive_move_relative>
+</eclipsetie>
+<multiled device="microscope">
+<trigger>EXTERNAL0</trigger>
+<enable channel="1">OFF</enable>
+<set channel="0">0.100</set>
+<number channel="0">2</number>
+<enable channel="0">ON</enable>
+</multiled>
+<save>
+<basename>/home/fa344/data/grid1/img_x0.000_y0.000_z1.667_R</basename>
+<append>NOTHING</append>
+</save>
+<camera name="IIDC Point Grey Research Grasshopper3 GS3-U3-23S6M">
+<trigger>SOFTWARE</trigger>
+<record>ON</record>
+<send_trigger></send_trigger>
+<sleep>0:0:0.050</sleep>
+<record>OFF</record>
+</camera>
+<multiled device="microscope">
+<trigger>EXTERNAL0</trigger>
+<enable channel="1">OFF</enable>
+<set channel="0">0.100</set>
+<number channel="0">1</number>
+<enable channel="0">ON</enable>
+</multiled>
+<save>
+<basename>/home/fa344/data/grid1/img_x0.000_y0.000_z1.667_G</basename>
+<append>NOTHING</append>
+</save>
+<camera name="IIDC Point Grey Research Grasshopper3 GS3-U3-23S6M">
+<trigger>SOFTWARE</trigger>
+<record>ON</record>
+<send_trigger></send_trigger>
+<sleep>0:0:0.050</sleep>
+<record>OFF</record>
+</camera>
+<multiled device="microscope">
+<trigger>EXTERNAL0</trigger>
+<enable channel="1">OFF</enable>
+<set channel="0">0.100</set>
+<number channel="0">0</number>
+<enable channel="0">ON</enable>
+</multiled>
+<save>
+<basename>/home/fa344/data/grid1/img_x0.000_y0.000_z1.667_B</basename>
+<append>NOTHING</append>
+</save>
+<camera name="IIDC Point Grey Research Grasshopper3 GS3-U3-23S6M">
+<trigger>SOFTWARE</trigger>
+<record>ON</record>
+<send_trigger></send_trigger>
+<sleep>0:0:0.050</sleep>
+<record>OFF</record>
+</camera>
+<multiled device="microscope">
+<trigger>EXTERNAL0</trigger>
+<enable channel="1">OFF</enable>
+<set channel="0">0.000</set>
+<number channel="0">0</number>
+<enable channel="0">ON</enable>
+</multiled>
+<eclipsetie>
+<zdrive_move_relative>0.256 1</zdrive_move_relative>
+</eclipsetie>
+<multiled device="microscope">
+<trigger>EXTERNAL0</trigger>
+<enable channel="1">OFF</enable>
+<set channel="0">0.100</set>
+<number channel="0">2</number>
+<enable channel="0">ON</enable>
+</multiled>
+<save>
+<basename>/home/fa344/data/grid1/img_x0.000_y0.000_z1.923_R</basename>
+<append>NOTHING</append>
+</save>
+<camera name="IIDC Point Grey Research Grasshopper3 GS3-U3-23S6M">
+<trigger>SOFTWARE</trigger>
+<record>ON</record>
+<send_trigger></send_trigger>
+<sleep>0:0:0.050</sleep>
+<record>OFF</record>
+</camera>
+<multiled device="microscope">
+<trigger>EXTERNAL0</trigger>
+<enable channel="1">OFF</enable>
+<set channel="0">0.100</set>
+<number channel="0">1</number>
+<enable channel="0">ON</enable>
+</multiled>
+<save>
+<basename>/home/fa344/data/grid1/img_x0.000_y0.000_z1.923_G</basename>
+<append>NOTHING</append>
+</save>
+<camera name="IIDC Point Grey Research Grasshopper3 GS3-U3-23S6M">
+<trigger>SOFTWARE</trigger>
+<record>ON</record>
+<send_trigger></send_trigger>
+<sleep>0:0:0.050</sleep>
+<record>OFF</record>
+</camera>
+<multiled device="microscope">
+<trigger>EXTERNAL0</trigger>
+<enable channel="1">OFF</enable>
+<set channel="0">0.100</set>
+<number channel="0">0</number>
+<enable channel="0">ON</enable>
+</multiled>
+<save>
+<basename>/home/fa344/data/grid1/img_x0.000_y0.000_z1.923_B</basename>
+<append>NOTHING</append>
+</save>
+<camera name="IIDC Point Grey Research Grasshopper3 GS3-U3-23S6M">
+<trigger>SOFTWARE</trigger>
+<record>ON</record>
+<send_trigger></send_trigger>
+<sleep>0:0:0.050</sleep>
+<record>OFF</record>
+</camera>
+<multiled device="microscope">
+<trigger>EXTERNAL0</trigger>
+<enable channel="1">OFF</enable>
+<set channel="0">0.000</set>
+<number channel="0">0</number>
+<enable channel="0">ON</enable>
+</multiled>
+<eclipsetie>
+<zdrive_move_relative>0.256 1</zdrive_move_relative>
+</eclipsetie>
+<multiled device="microscope">
+<trigger>EXTERNAL0</trigger>
+<enable channel="1">OFF</enable>
+<set channel="0">0.100</set>
+<number channel="0">2</number>
+<enable channel="0">ON</enable>
+</multiled>
+<save>
+<basename>/home/fa344/data/grid1/img_x0.000_y0.000_z2.179_R</basename>
+<append>NOTHING</append>
+</save>
+<camera name="IIDC Point Grey Research Grasshopper3 GS3-U3-23S6M">
+<trigger>SOFTWARE</trigger>
+<record>ON</record>
+<send_trigger></send_trigger>
+<sleep>0:0:0.050</sleep>
+<record>OFF</record>
+</camera>
+<multiled device="microscope">
+<trigger>EXTERNAL0</trigger>
+<enable channel="1">OFF</enable>
+<set channel="0">0.100</set>
+<number channel="0">1</number>
+<enable channel="0">ON</enable>
+</multiled>
+<save>
+<basename>/home/fa344/data/grid1/img_x0.000_y0.000_z2.179_G</basename>
+<append>NOTHING</append>
+</save>
+<camera name="IIDC Point Grey Research Grasshopper3 GS3-U3-23S6M">
+<trigger>SOFTWARE</trigger>
+<record>ON</record>
+<send_trigger></send_trigger>
+<sleep>0:0:0.050</sleep>
+<record>OFF</record>
+</camera>
+<multiled device="microscope">
+<trigger>EXTERNAL0</trigger>
+<enable channel="1">OFF</enable>
+<set channel="0">0.100</set>
+<number channel="0">0</number>
+<enable channel="0">ON</enable>
+</multiled>
+<save>
+<basename>/home/fa344/data/grid1/img_x0.000_y0.000_z2.179_B</basename>
+<append>NOTHING</append>
+</save>
+<camera name="IIDC Point Grey Research Grasshopper3 GS3-U3-23S6M">
+<trigger>SOFTWARE</trigger>
+<record>ON</record>
+<send_trigger></send_trigger>
+<sleep>0:0:0.050</sleep>
+<record>OFF</record>
+</camera>
+<multiled device="microscope">
+<trigger>EXTERNAL0</trigger>
+<enable channel="1">OFF</enable>
+<set channel="0">0.000</set>
+<number channel="0">0</number>
+<enable channel="0">ON</enable>
+</multiled>
+<eclipsetie>
+<zdrive_move_relative>0.256 1</zdrive_move_relative>
+</eclipsetie>
+<multiled device="microscope">
+<trigger>EXTERNAL0</trigger>
+<enable channel="1">OFF</enable>
+<set channel="0">0.100</set>
+<number channel="0">2</number>
+<enable channel="0">ON</enable>
+</multiled>
+<save>
+<basename>/home/fa344/data/grid1/img_x0.000_y0.000_z2.436_R</basename>
+<append>NOTHING</append>
+</save>
+<camera name="IIDC Point Grey Research Grasshopper3 GS3-U3-23S6M">
+<trigger>SOFTWARE</trigger>
+<record>ON</record>
+<send_trigger></send_trigger>
+<sleep>0:0:0.050</sleep>
+<record>OFF</record>
+</camera>
+<multiled device="microscope">
+<trigger>EXTERNAL0</trigger>
+<enable channel="1">OFF</enable>
+<set channel="0">0.100</set>
+<number channel="0">1</number>
+<enable channel="0">ON</enable>
+</multiled>
+<save>
+<basename>/home/fa344/data/grid1/img_x0.000_y0.000_z2.436_G</basename>
+<append>NOTHING</append>
+</save>
+<camera name="IIDC Point Grey Research Grasshopper3 GS3-U3-23S6M">
+<trigger>SOFTWARE</trigger>
+<record>ON</record>
+<send_trigger></send_trigger>
+<sleep>0:0:0.050</sleep>
+<record>OFF</record>
+</camera>
+<multiled device="microscope">
+<trigger>EXTERNAL0</trigger>
+<enable channel="1">OFF</enable>
+<set channel="0">0.100</set>
+<number channel="0">0</number>
+<enable channel="0">ON</enable>
+</multiled>
+<save>
+<basename>/home/fa344/data/grid1/img_x0.000_y0.000_z2.436_B</basename>
+<append>NOTHING</append>
+</save>
+<camera name="IIDC Point Grey Research Grasshopper3 GS3-U3-23S6M">
+<trigger>SOFTWARE</trigger>
+<record>ON</record>
+<send_trigger></send_trigger>
+<sleep>0:0:0.050</sleep>
+<record>OFF</record>
+</camera>
+<multiled device="microscope">
+<trigger>EXTERNAL0</trigger>
+<enable channel="1">OFF</enable>
+<set channel="0">0.000</set>
+<number channel="0">0</number>
+<enable channel="0">ON</enable>
+</multiled>
+<eclipsetie>
+<zdrive_move_relative>0.256 1</zdrive_move_relative>
+</eclipsetie>
+<multiled device="microscope">
+<trigger>EXTERNAL0</trigger>
+<enable channel="1">OFF</enable>
+<set channel="0">0.100</set>
+<number channel="0">2</number>
+<enable channel="0">ON</enable>
+</multiled>
+<save>
+<basename>/home/fa344/data/grid1/img_x0.000_y0.000_z2.692_R</basename>
+<append>NOTHING</append>
+</save>
+<camera name="IIDC Point Grey Research Grasshopper3 GS3-U3-23S6M">
+<trigger>SOFTWARE</trigger>
+<record>ON</record>
+<send_trigger></send_trigger>
+<sleep>0:0:0.050</sleep>
+<record>OFF</record>
+</camera>
+<multiled device="microscope">
+<trigger>EXTERNAL0</trigger>
+<enable channel="1">OFF</enable>
+<set channel="0">0.100</set>
+<number channel="0">1</number>
+<enable channel="0">ON</enable>
+</multiled>
+<save>
+<basename>/home/fa344/data/grid1/img_x0.000_y0.000_z2.692_G</basename>
+<append>NOTHING</append>
+</save>
+<camera name="IIDC Point Grey Research Grasshopper3 GS3-U3-23S6M">
+<trigger>SOFTWARE</trigger>
+<record>ON</record>
+<send_trigger></send_trigger>
+<sleep>0:0:0.050</sleep>
+<record>OFF</record>
+</camera>
+<multiled device="microscope">
+<trigger>EXTERNAL0</trigger>
+<enable channel="1">OFF</enable>
+<set channel="0">0.100</set>
+<number channel="0">0</number>
+<enable channel="0">ON</enable>
+</multiled>
+<save>
+<basename>/home/fa344/data/grid1/img_x0.000_y0.000_z2.692_B</basename>
+<append>NOTHING</append>
+</save>
+<camera name="IIDC Point Grey Research Grasshopper3 GS3-U3-23S6M">
+<trigger>SOFTWARE</trigger>
+<record>ON</record>
+<send_trigger></send_trigger>
+<sleep>0:0:0.050</sleep>
+<record>OFF</record>
+</camera>
+<multiled device="microscope">
+<trigger>EXTERNAL0</trigger>
+<enable channel="1">OFF</enable>
+<set channel="0">0.000</set>
+<number channel="0">0</number>
+<enable channel="0">ON</enable>
+</multiled>
+<eclipsetie>
+<zdrive_move_relative>0.256 1</zdrive_move_relative>
+</eclipsetie>
+<multiled device="microscope">
+<trigger>EXTERNAL0</trigger>
+<enable channel="1">OFF</enable>
+<set channel="0">0.100</set>
+<number channel="0">2</number>
+<enable channel="0">ON</enable>
+</multiled>
+<save>
+<basename>/home/fa344/data/grid1/img_x0.000_y0.000_z2.949_R</basename>
+<append>NOTHING</append>
+</save>
+<camera name="IIDC Point Grey Research Grasshopper3 GS3-U3-23S6M">
+<trigger>SOFTWARE</trigger>
+<record>ON</record>
+<send_trigger></send_trigger>
+<sleep>0:0:0.050</sleep>
+<record>OFF</record>
+</camera>
+<multiled device="microscope">
+<trigger>EXTERNAL0</trigger>
+<enable channel="1">OFF</enable>
+<set channel="0">0.100</set>
+<number channel="0">1</number>
+<enable channel="0">ON</enable>
+</multiled>
+<save>
+<basename>/home/fa344/data/grid1/img_x0.000_y0.000_z2.949_G</basename>
+<append>NOTHING</append>
+</save>
+<camera name="IIDC Point Grey Research Grasshopper3 GS3-U3-23S6M">
+<trigger>SOFTWARE</trigger>
+<record>ON</record>
+<send_trigger></send_trigger>
+<sleep>0:0:0.050</sleep>
+<record>OFF</record>
+</camera>
+<multiled device="microscope">
+<trigger>EXTERNAL0</trigger>
+<enable channel="1">OFF</enable>
+<set channel="0">0.100</set>
+<number channel="0">0</number>
+<enable channel="0">ON</enable>
+</multiled>
+<save>
+<basename>/home/fa344/data/grid1/img_x0.000_y0.000_z2.949_B</basename>
+<append>NOTHING</append>
+</save>
+<camera name="IIDC Point Grey Research Grasshopper3 GS3-U3-23S6M">
+<trigger>SOFTWARE</trigger>
+<record>ON</record>
+<send_trigger></send_trigger>
+<sleep>0:0:0.050</sleep>
+<record>OFF</record>
+</camera>
+<multiled device="microscope">
+<trigger>EXTERNAL0</trigger>
+<enable channel="1">OFF</enable>
+<set channel="0">0.000</set>
+<number channel="0">0</number>
+<enable channel="0">ON</enable>
+</multiled>
+<eclipsetie>
+<zdrive_move_relative>0.256 1</zdrive_move_relative>
+</eclipsetie>
+<multiled device="microscope">
+<trigger>EXTERNAL0</trigger>
+<enable channel="1">OFF</enable>
+<set channel="0">0.100</set>
+<number channel="0">2</number>
+<enable channel="0">ON</enable>
+</multiled>
+<save>
+<basename>/home/fa344/data/grid1/img_x0.000_y0.000_z3.205_R</basename>
+<append>NOTHING</append>
+</save>
+<camera name="IIDC Point Grey Research Grasshopper3 GS3-U3-23S6M">
+<trigger>SOFTWARE</trigger>
+<record>ON</record>
+<send_trigger></send_trigger>
+<sleep>0:0:0.050</sleep>
+<record>OFF</record>
+</camera>
+<multiled device="microscope">
+<trigger>EXTERNAL0</trigger>
+<enable channel="1">OFF</enable>
+<set channel="0">0.100</set>
+<number channel="0">1</number>
+<enable channel="0">ON</enable>
+</multiled>
+<save>
+<basename>/home/fa344/data/grid1/img_x0.000_y0.000_z3.205_G</basename>
+<append>NOTHING</append>
+</save>
+<camera name="IIDC Point Grey Research Grasshopper3 GS3-U3-23S6M">
+<trigger>SOFTWARE</trigger>
+<record>ON</record>
+<send_trigger></send_trigger>
+<sleep>0:0:0.050</sleep>
+<record>OFF</record>
+</camera>
+<multiled device="microscope">
+<trigger>EXTERNAL0</trigger>
+<enable channel="1">OFF</enable>
+<set channel="0">0.100</set>
+<number channel="0">0</number>
+<enable channel="0">ON</enable>
+</multiled>
+<save>
+<basename>/home/fa344/data/grid1/img_x0.000_y0.000_z3.205_B</basename>
+<append>NOTHING</append>
+</save>
+<camera name="IIDC Point Grey Research Grasshopper3 GS3-U3-23S6M">
+<trigger>SOFTWARE</trigger>
+<record>ON</record>
+<send_trigger></send_trigger>
+<sleep>0:0:0.050</sleep>
+<record>OFF</record>
+</camera>
+<multiled device="microscope">
+<trigger>EXTERNAL0</trigger>
+<enable channel="1">OFF</enable>
+<set channel="0">0.000</set>
+<number channel="0">0</number>
+<enable channel="0">ON</enable>
+</multiled>
+<eclipsetie>
+<zdrive_move_relative>0.256 1</zdrive_move_relative>
+</eclipsetie>
+<multiled device="microscope">
+<trigger>EXTERNAL0</trigger>
+<enable channel="1">OFF</enable>
+<set channel="0">0.100</set>
+<number channel="0">2</number>
+<enable channel="0">ON</enable>
+</multiled>
+<save>
+<basename>/home/fa344/data/grid1/img_x0.000_y0.000_z3.462_R</basename>
+<append>NOTHING</append>
+</save>
+<camera name="IIDC Point Grey Research Grasshopper3 GS3-U3-23S6M">
+<trigger>SOFTWARE</trigger>
+<record>ON</record>
+<send_trigger></send_trigger>
+<sleep>0:0:0.050</sleep>
+<record>OFF</record>
+</camera>
+<multiled device="microscope">
+<trigger>EXTERNAL0</trigger>
+<enable channel="1">OFF</enable>
+<set channel="0">0.100</set>
+<number channel="0">1</number>
+<enable channel="0">ON</enable>
+</multiled>
+<save>
+<basename>/home/fa344/data/grid1/img_x0.000_y0.000_z3.462_G</basename>
+<append>NOTHING</append>
+</save>
+<camera name="IIDC Point Grey Research Grasshopper3 GS3-U3-23S6M">
+<trigger>SOFTWARE</trigger>
+<record>ON</record>
+<send_trigger></send_trigger>
+<sleep>0:0:0.050</sleep>
+<record>OFF</record>
+</camera>
+<multiled device="microscope">
+<trigger>EXTERNAL0</trigger>
+<enable channel="1">OFF</enable>
+<set channel="0">0.100</set>
+<number channel="0">0</number>
+<enable channel="0">ON</enable>
+</multiled>
+<save>
+<basename>/home/fa344/data/grid1/img_x0.000_y0.000_z3.462_B</basename>
+<append>NOTHING</append>
+</save>
+<camera name="IIDC Point Grey Research Grasshopper3 GS3-U3-23S6M">
+<trigger>SOFTWARE</trigger>
+<record>ON</record>
+<send_trigger></send_trigger>
+<sleep>0:0:0.050</sleep>
+<record>OFF</record>
+</camera>
+<multiled device="microscope">
+<trigger>EXTERNAL0</trigger>
+<enable channel="1">OFF</enable>
+<set channel="0">0.000</set>
+<number channel="0">0</number>
+<enable channel="0">ON</enable>
+</multiled>
+<eclipsetie>
+<zdrive_move_relative>0.256 1</zdrive_move_relative>
+</eclipsetie>
+<multiled device="microscope">
+<trigger>EXTERNAL0</trigger>
+<enable channel="1">OFF</enable>
+<set channel="0">0.100</set>
+<number channel="0">2</number>
+<enable channel="0">ON</enable>
+</multiled>
+<save>
+<basename>/home/fa344/data/grid1/img_x0.000_y0.000_z3.718_R</basename>
+<append>NOTHING</append>
+</save>
+<camera name="IIDC Point Grey Research Grasshopper3 GS3-U3-23S6M">
+<trigger>SOFTWARE</trigger>
+<record>ON</record>
+<send_trigger></send_trigger>
+<sleep>0:0:0.050</sleep>
+<record>OFF</record>
+</camera>
+<multiled device="microscope">
+<trigger>EXTERNAL0</trigger>
+<enable channel="1">OFF</enable>
+<set channel="0">0.100</set>
+<number channel="0">1</number>
+<enable channel="0">ON</enable>
+</multiled>
+<save>
+<basename>/home/fa344/data/grid1/img_x0.000_y0.000_z3.718_G</basename>
+<append>NOTHING</append>
+</save>
+<camera name="IIDC Point Grey Research Grasshopper3 GS3-U3-23S6M">
+<trigger>SOFTWARE</trigger>
+<record>ON</record>
+<send_trigger></send_trigger>
+<sleep>0:0:0.050</sleep>
+<record>OFF</record>
+</camera>
+<multiled device="microscope">
+<trigger>EXTERNAL0</trigger>
+<enable channel="1">OFF</enable>
+<set channel="0">0.100</set>
+<number channel="0">0</number>
+<enable channel="0">ON</enable>
+</multiled>
+<save>
+<basename>/home/fa344/data/grid1/img_x0.000_y0.000_z3.718_B</basename>
+<append>NOTHING</append>
+</save>
+<camera name="IIDC Point Grey Research Grasshopper3 GS3-U3-23S6M">
+<trigger>SOFTWARE</trigger>
+<record>ON</record>
+<send_trigger></send_trigger>
+<sleep>0:0:0.050</sleep>
+<record>OFF</record>
+</camera>
+<multiled device="microscope">
+<trigger>EXTERNAL0</trigger>
+<enable channel="1">OFF</enable>
+<set channel="0">0.000</set>
+<number channel="0">0</number>
+<enable channel="0">ON</enable>
+</multiled>
+<eclipsetie>
+<zdrive_move_relative>0.256 1</zdrive_move_relative>
+</eclipsetie>
+<multiled device="microscope">
+<trigger>EXTERNAL0</trigger>
+<enable channel="1">OFF</enable>
+<set channel="0">0.100</set>
+<number channel="0">2</number>
+<enable channel="0">ON</enable>
+</multiled>
+<save>
+<basename>/home/fa344/data/grid1/img_x0.000_y0.000_z3.974_R</basename>
+<append>NOTHING</append>
+</save>
+<camera name="IIDC Point Grey Research Grasshopper3 GS3-U3-23S6M">
+<trigger>SOFTWARE</trigger>
+<record>ON</record>
+<send_trigger></send_trigger>
+<sleep>0:0:0.050</sleep>
+<record>OFF</record>
+</camera>
+<multiled device="microscope">
+<trigger>EXTERNAL0</trigger>
+<enable channel="1">OFF</enable>
+<set channel="0">0.100</set>
+<number channel="0">1</number>
+<enable channel="0">ON</enable>
+</multiled>
+<save>
+<basename>/home/fa344/data/grid1/img_x0.000_y0.000_z3.974_G</basename>
+<append>NOTHING</append>
+</save>
+<camera name="IIDC Point Grey Research Grasshopper3 GS3-U3-23S6M">
+<trigger>SOFTWARE</trigger>
+<record>ON</record>
+<send_trigger></send_trigger>
+<sleep>0:0:0.050</sleep>
+<record>OFF</record>
+</camera>
+<multiled device="microscope">
+<trigger>EXTERNAL0</trigger>
+<enable channel="1">OFF</enable>
+<set channel="0">0.100</set>
+<number channel="0">0</number>
+<enable channel="0">ON</enable>
+</multiled>
+<save>
+<basename>/home/fa344/data/grid1/img_x0.000_y0.000_z3.974_B</basename>
+<append>NOTHING</append>
+</save>
+<camera name="IIDC Point Grey Research Grasshopper3 GS3-U3-23S6M">
+<trigger>SOFTWARE</trigger>
+<record>ON</record>
+<send_trigger></send_trigger>
+<sleep>0:0:0.050</sleep>
+<record>OFF</record>
+</camera>
+<multiled device="microscope">
+<trigger>EXTERNAL0</trigger>
+<enable channel="1">OFF</enable>
+<set channel="0">0.000</set>
+<number channel="0">0</number>
+<enable channel="0">ON</enable>
+</multiled>
+<eclipsetie>
+<zdrive_move_relative>0.256 1</zdrive_move_relative>
+</eclipsetie>
+<multiled device="microscope">
+<trigger>EXTERNAL0</trigger>
+<enable channel="1">OFF</enable>
+<set channel="0">0.100</set>
+<number channel="0">2</number>
+<enable channel="0">ON</enable>
+</multiled>
+<save>
+<basename>/home/fa344/data/grid1/img_x0.000_y0.000_z4.231_R</basename>
+<append>NOTHING</append>
+</save>
+<camera name="IIDC Point Grey Research Grasshopper3 GS3-U3-23S6M">
+<trigger>SOFTWARE</trigger>
+<record>ON</record>
+<send_trigger></send_trigger>
+<sleep>0:0:0.050</sleep>
+<record>OFF</record>
+</camera>
+<multiled device="microscope">
+<trigger>EXTERNAL0</trigger>
+<enable channel="1">OFF</enable>
+<set channel="0">0.100</set>
+<number channel="0">1</number>
+<enable channel="0">ON</enable>
+</multiled>
+<save>
+<basename>/home/fa344/data/grid1/img_x0.000_y0.000_z4.231_G</basename>
+<append>NOTHING</append>
+</save>
+<camera name="IIDC Point Grey Research Grasshopper3 GS3-U3-23S6M">
+<trigger>SOFTWARE</trigger>
+<record>ON</record>
+<send_trigger></send_trigger>
+<sleep>0:0:0.050</sleep>
+<record>OFF</record>
+</camera>
+<multiled device="microscope">
+<trigger>EXTERNAL0</trigger>
+<enable channel="1">OFF</enable>
+<set channel="0">0.100</set>
+<number channel="0">0</number>
+<enable channel="0">ON</enable>
+</multiled>
+<save>
+<basename>/home/fa344/data/grid1/img_x0.000_y0.000_z4.231_B</basename>
+<append>NOTHING</append>
+</save>
+<camera name="IIDC Point Grey Research Grasshopper3 GS3-U3-23S6M">
+<trigger>SOFTWARE</trigger>
+<record>ON</record>
+<send_trigger></send_trigger>
+<sleep>0:0:0.050</sleep>
+<record>OFF</record>
+</camera>
+<multiled device="microscope">
+<trigger>EXTERNAL0</trigger>
+<enable channel="1">OFF</enable>
+<set channel="0">0.000</set>
+<number channel="0">0</number>
+<enable channel="0">ON</enable>
+</multiled>
+<eclipsetie>
+<zdrive_move_relative>0.256 1</zdrive_move_relative>
+</eclipsetie>
+<multiled device="microscope">
+<trigger>EXTERNAL0</trigger>
+<enable channel="1">OFF</enable>
+<set channel="0">0.100</set>
+<number channel="0">2</number>
+<enable channel="0">ON</enable>
+</multiled>
+<save>
+<basename>/home/fa344/data/grid1/img_x0.000_y0.000_z4.487_R</basename>
+<append>NOTHING</append>
+</save>
+<camera name="IIDC Point Grey Research Grasshopper3 GS3-U3-23S6M">
+<trigger>SOFTWARE</trigger>
+<record>ON</record>
+<send_trigger></send_trigger>
+<sleep>0:0:0.050</sleep>
+<record>OFF</record>
+</camera>
+<multiled device="microscope">
+<trigger>EXTERNAL0</trigger>
+<enable channel="1">OFF</enable>
+<set channel="0">0.100</set>
+<number channel="0">1</number>
+<enable channel="0">ON</enable>
+</multiled>
+<save>
+<basename>/home/fa344/data/grid1/img_x0.000_y0.000_z4.487_G</basename>
+<append>NOTHING</append>
+</save>
+<camera name="IIDC Point Grey Research Grasshopper3 GS3-U3-23S6M">
+<trigger>SOFTWARE</trigger>
+<record>ON</record>
+<send_trigger></send_trigger>
+<sleep>0:0:0.050</sleep>
+<record>OFF</record>
+</camera>
+<multiled device="microscope">
+<trigger>EXTERNAL0</trigger>
+<enable channel="1">OFF</enable>
+<set channel="0">0.100</set>
+<number channel="0">0</number>
+<enable channel="0">ON</enable>
+</multiled>
+<save>
+<basename>/home/fa344/data/grid1/img_x0.000_y0.000_z4.487_B</basename>
+<append>NOTHING</append>
+</save>
+<camera name="IIDC Point Grey Research Grasshopper3 GS3-U3-23S6M">
+<trigger>SOFTWARE</trigger>
+<record>ON</record>
+<send_trigger></send_trigger>
+<sleep>0:0:0.050</sleep>
+<record>OFF</record>
+</camera>
+<multiled device="microscope">
+<trigger>EXTERNAL0</trigger>
+<enable channel="1">OFF</enable>
+<set channel="0">0.000</set>
+<number channel="0">0</number>
+<enable channel="0">ON</enable>
+</multiled>
+<eclipsetie>
+<zdrive_move_relative>0.256 1</zdrive_move_relative>
+</eclipsetie>
+<multiled device="microscope">
+<trigger>EXTERNAL0</trigger>
+<enable channel="1">OFF</enable>
+<set channel="0">0.100</set>
+<number channel="0">2</number>
+<enable channel="0">ON</enable>
+</multiled>
+<save>
+<basename>/home/fa344/data/grid1/img_x0.000_y0.000_z4.744_R</basename>
+<append>NOTHING</append>
+</save>
+<camera name="IIDC Point Grey Research Grasshopper3 GS3-U3-23S6M">
+<trigger>SOFTWARE</trigger>
+<record>ON</record>
+<send_trigger></send_trigger>
+<sleep>0:0:0.050</sleep>
+<record>OFF</record>
+</camera>
+<multiled device="microscope">
+<trigger>EXTERNAL0</trigger>
+<enable channel="1">OFF</enable>
+<set channel="0">0.100</set>
+<number channel="0">1</number>
+<enable channel="0">ON</enable>
+</multiled>
+<save>
+<basename>/home/fa344/data/grid1/img_x0.000_y0.000_z4.744_G</basename>
+<append>NOTHING</append>
+</save>
+<camera name="IIDC Point Grey Research Grasshopper3 GS3-U3-23S6M">
+<trigger>SOFTWARE</trigger>
+<record>ON</record>
+<send_trigger></send_trigger>
+<sleep>0:0:0.050</sleep>
+<record>OFF</record>
+</camera>
+<multiled device="microscope">
+<trigger>EXTERNAL0</trigger>
+<enable channel="1">OFF</enable>
+<set channel="0">0.100</set>
+<number channel="0">0</number>
+<enable channel="0">ON</enable>
+</multiled>
+<save>
+<basename>/home/fa344/data/grid1/img_x0.000_y0.000_z4.744_B</basename>
+<append>NOTHING</append>
+</save>
+<camera name="IIDC Point Grey Research Grasshopper3 GS3-U3-23S6M">
+<trigger>SOFTWARE</trigger>
+<record>ON</record>
+<send_trigger></send_trigger>
+<sleep>0:0:0.050</sleep>
+<record>OFF</record>
+</camera>
+<multiled device="microscope">
+<trigger>EXTERNAL0</trigger>
+<enable channel="1">OFF</enable>
+<set channel="0">0.000</set>
+<number channel="0">0</number>
+<enable channel="0">ON</enable>
+</multiled>
+<eclipsetie>
+<zdrive_move_relative>0.256 1</zdrive_move_relative>
+</eclipsetie>
+<multiled device="microscope">
+<trigger>EXTERNAL0</trigger>
+<enable channel="1">OFF</enable>
+<set channel="0">0.100</set>
+<number channel="0">2</number>
+<enable channel="0">ON</enable>
+</multiled>
+<save>
+<basename>/home/fa344/data/grid1/img_x0.000_y0.000_z5.000_R</basename>
+<append>NOTHING</append>
+</save>
+<camera name="IIDC Point Grey Research Grasshopper3 GS3-U3-23S6M">
+<trigger>SOFTWARE</trigger>
+<record>ON</record>
+<send_trigger></send_trigger>
+<sleep>0:0:0.050</sleep>
+<record>OFF</record>
+</camera>
+<multiled device="microscope">
+<trigger>EXTERNAL0</trigger>
+<enable channel="1">OFF</enable>
+<set channel="0">0.100</set>
+<number channel="0">1</number>
+<enable channel="0">ON</enable>
+</multiled>
+<save>
+<basename>/home/fa344/data/grid1/img_x0.000_y0.000_z5.000_G</basename>
+<append>NOTHING</append>
+</save>
+<camera name="IIDC Point Grey Research Grasshopper3 GS3-U3-23S6M">
+<trigger>SOFTWARE</trigger>
+<record>ON</record>
+<send_trigger></send_trigger>
+<sleep>0:0:0.050</sleep>
+<record>OFF</record>
+</camera>
+<multiled device="microscope">
+<trigger>EXTERNAL0</trigger>
+<enable channel="1">OFF</enable>
+<set channel="0">0.100</set>
+<number channel="0">0</number>
+<enable channel="0">ON</enable>
+</multiled>
+<save>
+<basename>/home/fa344/data/grid1/img_x0.000_y0.000_z5.000_B</basename>
+<append>NOTHING</append>
+</save>
+<camera name="IIDC Point Grey Research Grasshopper3 GS3-U3-23S6M">
+<trigger>SOFTWARE</trigger>
+<record>ON</record>
+<send_trigger></send_trigger>
+<sleep>0:0:0.050</sleep>
+<record>OFF</record>
+</camera>
+<multiled device="microscope">
+<trigger>EXTERNAL0</trigger>
+<enable channel="1">OFF</enable>
+<set channel="0">0.000</set>
+<number channel="0">0</number>
+<enable channel="0">ON</enable>
+</multiled>
+<eclipsetie>
+<zdrive_move_relative>0.256 1</zdrive_move_relative>
+</eclipsetie>
+<eclipsetie>
+<zdrive_move_relative>-5.000 1</zdrive_move_relative>
+</eclipsetie>
+<xystage axis="y">
+<enable>ON</enable>
+<move_relative>40.000 3</move_relative>
+</xystage>
+<eclipsetie>
+<zdrive_move_z>0.080 3</zdrive_move_z>
+</eclipsetie>
+<microscope><xystage axis="y">
+<wait_moving_end></wait_moving_end>
+<xystage></microscope>
+</temika>
